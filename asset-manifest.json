@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactexptracker/static/css/main.4947d980.css",
+    "main.js": "/reactexptracker/static/js/main.c5bed869.js",
+    "index.html": "/reactexptracker/index.html",
+    "main.4947d980.css.map": "/reactexptracker/static/css/main.4947d980.css.map",
+    "main.c5bed869.js.map": "/reactexptracker/static/js/main.c5bed869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4947d980.css",
+    "static/js/main.c5bed869.js"
+  ]
+}
